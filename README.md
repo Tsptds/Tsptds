@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 
+
 * Bachelor's in Electrical & Electronics Engineering
 * Passionate About Computers & Programming
 
