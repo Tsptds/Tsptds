@@ -11,3 +11,5 @@
 - 🔭 Currently working on various different projects.
 - 🌱 Learning advanced C++ and Image Processing with Python
 - ⚡ Part time Skyrim Modder, as a hobby.
+
+Yes, the default template is cringe but I'm too lazy to change that.
